@@ -1,7 +1,4 @@
 
-Uttam Upadhyay
-6:54 PM (7 minutes ago)
-to me
 
 pipeline {
     agent any
